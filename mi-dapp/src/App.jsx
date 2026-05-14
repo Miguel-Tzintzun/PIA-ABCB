@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
-import AuditRegistryABI from './AuditRegistryABI.json'; // El ABI de tu contrato compilado
+import AuditRegistryABI from './AuditRegistryABI.json'; // El ABI del contrato compilado
 
 const contractAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
 
