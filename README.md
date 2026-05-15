@@ -1,7 +1,7 @@
 # PIA-ABCB
 Proyecto Final de Aplicaciones Basadas en Cadenas de Bloques
-El proyecto se encuentra en la sección master
-¡A la madre, una disculpa wey! A veces la interfaz se bugea y recorta los recuadros negros de código si están muy largos y no te deja ver el texto completo.
+"El proyecto se encuentra en la sección master"
+
 
 # Registro Inmutable de Auditorías de Ciberseguridad (DApp)
 
