@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
 import AuditRegistryABI from './AuditRegistryABI.json'; // El ABI del contrato compilado
 
-const contractAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const contractAddress = "AQUI INSTERTAMOS LA DIRECCIÓN DEL CONTRATO";
 
 export default function App() {
     const [account, setAccount] = useState(null);
