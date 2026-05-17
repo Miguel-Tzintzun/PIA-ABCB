@@ -9,7 +9,7 @@ Proyecto Final de Aplicaciones Basadas en Cadenas de Bloques
 
 ---
 
-## 📝 Descripción del Proyecto
+## Descripción del Proyecto
 
 Esta es una Aplicación Descentralizada (DApp) diseñada para gestionar un registro inmutable de auditorías de ciberseguridad. El sistema permite:
 
@@ -20,7 +20,7 @@ Esta es una Aplicación Descentralizada (DApp) diseñada para gestionar un regis
 
 ---
 
-## 🛠️ Requisitos Previos
+## Requisitos Previos
 
 Asegúrate de tener instalado lo siguiente:
 
@@ -30,7 +30,7 @@ Asegúrate de tener instalado lo siguiente:
 
 ---
 
-## 🚀 Instrucciones de Instalación y Ejecución
+## Instrucciones de Instalación y Ejecución
 
 Sigue estos pasos detallados para configurar el entorno de desarrollo local.
 
@@ -87,7 +87,7 @@ Sigue estos pasos detallados para configurar el entorno de desarrollo local.
 
 ---
 
-## ⚠️ Solución de Problemas (Troubleshooting)
+## Solución de Problemas (Troubleshooting)
 
 **Error: "Nonce too high" o Transacción fallida**
 Si reinicias el comando `npx hardhat node`, debes resetear MetaMask para limpiar el historial de la red:
